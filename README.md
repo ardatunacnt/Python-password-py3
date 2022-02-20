@@ -10,7 +10,9 @@ cd Python-password-py3
 
 python -m pip install colorama
 
-python passwd.py or python3 passwd.py
+python passwd.py, 
+or:
+python3 passwd.py
 
 
 
